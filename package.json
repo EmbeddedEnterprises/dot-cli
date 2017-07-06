@@ -1,5 +1,5 @@
 {
-    "name": "dot-cli",
+    "name": "@embedded-enterprises/dot-cli",
     "version": "0.1.0",
     "description": "This project provides a basic cli for doT.js",
     "main": "dot-cli.js",
@@ -14,5 +14,6 @@
     "license": "MIT",
     "dependencies": {
         "dot": "^1.1.2"
-    }
+    },
+    "private": false
 }
