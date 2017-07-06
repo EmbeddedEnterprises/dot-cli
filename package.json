@@ -1,0 +1,18 @@
+{
+    "name": "dot-cli",
+    "version": "0.1.0",
+    "description": "This project provides a basic cli for doT.js",
+    "main": "dot-cli.js",
+    "bin": {
+        "dotjs": "dot-cli.js"
+    },
+    "keywords": [
+        "doT.js"
+    ],
+    "repository": "https://github.com/EmbeddedEnterprises/dot-cli",
+    "author": "Fin Christensen",
+    "license": "MIT",
+    "dependencies": {
+        "dot": "^1.1.2"
+    }
+}
